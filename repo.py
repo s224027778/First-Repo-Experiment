@@ -4,6 +4,12 @@ import requests
 from bs4 import BeautifulSoup
 import bs4
 
+def main():
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    main()
+
 # Mock HTML content simulating a local weather page
 html_content = """
 <html>
